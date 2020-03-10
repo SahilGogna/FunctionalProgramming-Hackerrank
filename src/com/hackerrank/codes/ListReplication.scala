@@ -80,5 +80,7 @@ object ListReplication extends App {
     if (n == 0) 1
     else n * factorial(n-1)
   }
-  println(eulerNumberCalc(20))
+//  println(eulerNumberCalc(20))
+
+
 }
